@@ -1,0 +1,16 @@
+C:\Users\ferna\projects\oop\oopconsole\bin\Debug\net5.0\oopconsole.exe
+C:\Users\ferna\projects\oop\oopconsole\bin\Debug\net5.0\oopconsole.deps.json
+C:\Users\ferna\projects\oop\oopconsole\bin\Debug\net5.0\oopconsole.runtimeconfig.json
+C:\Users\ferna\projects\oop\oopconsole\bin\Debug\net5.0\oopconsole.runtimeconfig.dev.json
+C:\Users\ferna\projects\oop\oopconsole\bin\Debug\net5.0\oopconsole.dll
+C:\Users\ferna\projects\oop\oopconsole\bin\Debug\net5.0\ref\oopconsole.dll
+C:\Users\ferna\projects\oop\oopconsole\bin\Debug\net5.0\oopconsole.pdb
+C:\Users\ferna\projects\oop\oopconsole\obj\Debug\net5.0\oopconsole.csprojAssemblyReference.cache
+C:\Users\ferna\projects\oop\oopconsole\obj\Debug\net5.0\oopconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\projects\oop\oopconsole\obj\Debug\net5.0\oopconsole.AssemblyInfoInputs.cache
+C:\Users\ferna\projects\oop\oopconsole\obj\Debug\net5.0\oopconsole.AssemblyInfo.cs
+C:\Users\ferna\projects\oop\oopconsole\obj\Debug\net5.0\oopconsole.csproj.CoreCompileInputs.cache
+C:\Users\ferna\projects\oop\oopconsole\obj\Debug\net5.0\oopconsole.dll
+C:\Users\ferna\projects\oop\oopconsole\obj\Debug\net5.0\ref\oopconsole.dll
+C:\Users\ferna\projects\oop\oopconsole\obj\Debug\net5.0\oopconsole.pdb
+C:\Users\ferna\projects\oop\oopconsole\obj\Debug\net5.0\oopconsole.genruntimeconfig.cache
